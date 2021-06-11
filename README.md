@@ -12,4 +12,4 @@ I'm Vishal from India, and I am good at web development and coding. I really enj
 [<img src='https://www.pikpng.com/pngl/m/384-3846649_free-download-at-icons8-github-logo-transparent-background.png' alt='github' width="40" height='40'>](https://github.com/vishalsinghhh)  [<img src='https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/vishal-singh-2046841b7/)  [<img src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' alt='instagram' width="40" height='40'>](https://www.instagram.com/vishalsinghhh__/)  [<img src='https://i.pinimg.com/originals/6c/24/ca/6c24ca0bb77928acd539845542526994.jpg' alt='website' width="40" height='40'>](https://vishalsinghhh.github.io/Portfolio/)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghhh&layout&show_icons=true&theme=dark&locale=en&layout=compact](https://github.com/anuraghazra/github-readme-stats)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsinghhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="vishalsinghhh" /></p>
