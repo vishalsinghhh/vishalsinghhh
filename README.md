@@ -4,13 +4,6 @@
 I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
 
 ## Skills and Experience
-* import { FaBeer } from 'react-icons/fa';
-
-class Question extends React.Component {
-    render() {
-        return <h3> Lets go for a <FaBeer />? </h3>
-    }
-}
 
 Skills: NODE / REACT / JS / BOOTSTRAP / HTML / CSS / C++ / PYTHON
 
