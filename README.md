@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hi there 👋, I'm Vishal
+#### Coding and Web Development
+![Coding and Web Development](https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1)
 
-I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT. You can check out my LinkedIn at https://www.linkedin.com/in/vishal-singh-2046841b7/ or https://instagram.com/vishalsinghhh__?igshid=100tz7bdb7znb. 
+I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
 
-[![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghhh)](https://github.com/anuraghazra/github-readme-stats)
+Skills: NODE / REACT / JS / BOOTSTRAP / HTML / CSS / C++ / PYTHON
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/vishalsinghhh)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vishal-singh-2046841b7/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/vishalsinghhh__/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://vishalsinghhh.github.io/Portfolio/)  
