@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Vishal
 <!-- ![Coding and Web Development](https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1) -->
 <!-- <img src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1" alt="bootstrap" /> -->
-<img src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1" alt="" style="justify-content: center; text-align: center; display: flex; margin-left: auto; margin-right: auto;">
+<img src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1" alt="" style="justify-content: center; text-align: center; display: flex; margin-left: 1000px; margin-right: auto;">
 
 I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
 
