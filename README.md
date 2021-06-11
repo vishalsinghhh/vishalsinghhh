@@ -13,3 +13,4 @@ I'm Vishal from India, and I am good at web development and coding. I really enj
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsinghhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="vishalsinghhh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishalsinghhh&theme=dark" alt="vishalsinghhh" /></p>
