@@ -1,5 +1,7 @@
 # Hi there 👋, I'm Vishal
 <!-- ![Coding and Web Development](https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1) -->
+![](https://komarev.com/ghpvc/?username=vishalsinghhh)
+
 <p><img align="center" src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1" alt="vishalsinghhh" /></p>
 
 I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
@@ -11,9 +13,10 @@ I'm Vishal from India, and I am good at web development and coding. I really enj
 ## Let's be social
 [<img src='https://www.pikpng.com/pngl/m/384-3846649_free-download-at-icons8-github-logo-transparent-background.png' alt='github' width="40" height='40'>](https://github.com/vishalsinghhh)  [<img src='https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/vishal-singh-2046841b7/)  [<img src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' alt='instagram' width="40" height='40'>](https://www.instagram.com/vishalsinghhh__/)  [<img src='https://i.pinimg.com/originals/6c/24/ca/6c24ca0bb77928acd539845542526994.jpg' alt='website' width="40" height='40'>](https://vishalsinghhh.github.io/Portfolio/)  
 
-![Vishal's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghhh&theme=dark&show_icons=true)
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalsinghhh&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalsinghhh&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalsinghhh&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghhh&theme=radical)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishalsinghhh&show_icons=true&theme=dark&locale=en&layout=compact" alt="vishalsinghhh" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghhh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
