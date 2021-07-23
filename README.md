@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=vishalsinghhh)
 
-<p><img align="center" src="https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1" alt="vishalsinghhh" /></p>
+<p><img align="center" src="https://sdk.bitmoji.com/render/panel/fef4551f-79f8-419e-8578-d6472116e7c1-8dd79253-8a5b-4238-9295-075fae72ffea-v1.png?transparent=1&palette=1" alt="vishalsinghhh" /></p>
 
 I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
 
