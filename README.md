@@ -29,7 +29,7 @@ I'm Vishal from India, and I am good at web development and coding. I really enj
 
 ## Let's be social
   [<img src='https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/vishal-singh-2046841b7/)  [<img src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' alt='instagram' width="40" height='40'>](https://www.instagram.com/vishalsinghhh__/)[<img src='https://image.flaticon.com/icons/png/128/1384/1384076.png' alt='' width="40" height='40'>](https://www.snapchat.com/add/vsingh0710)  [<img src='https://i.pinimg.com/originals/6c/24/ca/6c24ca0bb77928acd539845542526994.jpg' alt='website' width="40" height='40'>](https://vishalsinghhh.github.io/Portfolio/)  
-
+## Statistics
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalsinghhh&theme=dark)](https://git.io/streak-stats) -->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalsinghhh&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
 
