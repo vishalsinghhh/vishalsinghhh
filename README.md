@@ -24,7 +24,6 @@ I'm Vishal from India, and I am good at web development and coding. I really enj
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
   <a href="https://strapi.io/" target="_blank"> <img src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" alt="strapi" width="40" height="40"/> </a>
-<a href="https://stripe.com" target="_blank"> <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/stripe.png" alt="sass" width="40" height="40"/> </a> </p>
 
 
 ## Let's be social
