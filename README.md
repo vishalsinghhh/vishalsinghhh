@@ -1,6 +1,6 @@
 <!-- # Hi there 👋, I'm Vishal -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!+I'm+Vishal)](https://git.io/typing-svg)
-<!-- ![Coding and Web Development](https://sdk.bitmoji.com/render/panel/f3af4143-e643-41dd-8d37-d6b376955106-dba1bb56-8327-4499-8161-b42ec8624f23-v1.png?transparent=1&palette=1) -->
+
 
 ![](https://komarev.com/ghpvc/?username=vishalsinghhh)
 
