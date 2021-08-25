@@ -1,5 +1,33 @@
-<!-- # Hi there 👋, I'm Vishal -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=18A4F7&size=40&width=900&height=100&lines=Hello+there!+I'm+Vishal)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=cconsole.log(%22Hello%2C%20World!%22);%3E%20node%20index;Hello%2C%20World!&center=true&size=27">
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="800px">
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ![](https://komarev.com/ghpvc/?username=vishalsinghhh)
