@@ -5,63 +5,137 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="800px">
+  <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="750px">
 </p>
 
+<!-- <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=vishalsinghhh&theme=monokai&column=8&no-frame=true&no-bg=true">
+  </a>
+</p> -->
+<h3>
+  
+```js
+const user = {
+  user_name: "Vishal Singh",
+  my_age_no: 19,
+  _pronouns: [ "he", "him", ],
+  fav_theme: [ "dark", "monokai", ],
+  fav_color: #000000,
+  
+  semicolon: false,
+  codeStyle: "prettier",
+  variables: "camelCase",
+  
+  myhobbies: [ "programming", "sleeping", "gaining knowledge", ],
+  languages: [ "Html", "Css", "Js", "ReactJs", "Redux", "NodeJs", "C++", "Python", "C", ],
+  myeditors: [ "Sublime Text", "VS Code", ],
+  
+  thank_you: "John Smilga",
+  
+  learnNewLanguage: function () {
+    console.log("Hello, World!")
+  },
+  
+  hereIsYourFood: function (food) {
+    const good = [ "Panner Butter Masala", "Chicken", "Mixed Noodles", "Good Fish", 
+    "Biriyani", ]
+    const acceptable = JSON.parse(fs.readFileSync("acceptableFoods.json"))
+    
+    if (good.includes(food)) {
+      console.log("Chomp Chomp Gulp... Yum!")
+    } else if (acceptable.includes(food)) {
+      console.log("Chew Chew Gulp.")
+    } else {
+      console.log("No, thanks.")
+    }
+  },
+}
+```
+</h3>
 
+<h1 align="center"> Skills & Tools: </h1>
 
+<p align="center">
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/react-61DAFB?&style=for-the-badge&logo=react&logoColor=121212">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
+  </a>
+  <a href="https://www.cprogramming.com/">
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  </a>
+  <br>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=Node.js&logoColor=white">
+  </a>
+  <a href="https://redux.js.org/">
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+  </a>
+  <br>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <br>
+  <a href="https://getbootstrap.com/">
+    <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  </a>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/git-F05032?&style=for-the-badge&logo=git&logoColor=white">
+  </a>
+  <br>
+</p>
 
+<h1 align="center"> Socials: </h1>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/vishal-singh-2046841b7/https://www.linkedin.com/in/vishal-singh-2046841b7/">
+      <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>
+    <a href="https://www.instagram.com/vishalsinghhh__/?igshid=100tz7bdb7znb">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+    <a href="https://www.snapchat.com/add/vsingh0710">
+      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">
+    </a>
+    
+  </p>
+</h1>
 
+<h1 align="center"> 📊 Stats: </h1>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=vishalsinghhh)
-
-<p><img align="center" src="https://sdk.bitmoji.com/render/panel/fef4551f-79f8-419e-8578-d6472116e7c1-8dd79253-8a5b-4238-9295-075fae72ffea-v1.png?transparent=1&palette=1" alt="vishalsinghhh" /></p>
-
-I'm Vishal from India, and I am good at web development and coding. I really enjoy learning languages and frameworks like JavaScript and React. I have also knowledge in the field of IoT.
-
-## Skills and Experience
-<p align="left"><a href="https://www.arduino.cc/" target="_blank"> <img src="https://brandslogos.com/wp-content/uploads/images/large/arduino-logo-1.png" alt="arduinoIDE" width="40" height="40"/> 
-  <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://camo.githubusercontent.com/ba9df1e4c5f7c9f6503f2668f03a934b4553c5840dd6067ee1ab013c2af86afc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6761747362796a732f6761747362796a732d69636f6e2e737667" alt="git" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://graphql.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://redux.js.org/" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
-  <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>  
-  <a href="https://strapi.io/" target="_blank"> <img src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/hp-logo-hero_c94026101f.svg" alt="strapi" width="40" height="40"/> </a>
-
-
-## Let's be social
-  [<img src='https://eaes.eu/wp-content/uploads/2017/05/linkedin-logo.png' alt='linkedin' width="40" height='40'>](https://www.linkedin.com/in/vishal-singh-2046841b7/)  [<img src='http://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png' alt='instagram' width="40" height='40'>](https://www.instagram.com/vishalsinghhh__/)[<img src='https://image.flaticon.com/icons/png/128/1384/1384076.png' alt='' width="40" height='40'>](https://www.snapchat.com/add/vsingh0710)  [<img src='https://i.pinimg.com/originals/6c/24/ca/6c24ca0bb77928acd539845542526994.jpg' alt='website' width="40" height='40'>](https://vishalsinghhh.github.io/Portfolio/)  
-## Statistics
-<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vishalsinghhh&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vishalsinghhh&theme=radical&currStreakNum=2FD3EB&fire=pink&sideLabels=F00)](https://git.io/streak-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishalsinghhh&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghhh&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=vishalsinghhh&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishalsinghhh&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+  <br>
+</p>
+<h1 align="center"> 🔥 Contributions: </h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=vishalsinghhh&theme=react&background=0d1117&border=666">
+  </a>
+  <br>
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img src="https://activity-graph.herokuapp.com/graph?username=vishalsinghhh&theme=react-dark&hide_border=true">
+  </a>
+</p>
