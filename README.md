@@ -105,7 +105,7 @@ const user = {
 
 <h1 align="center"> Socials: </h1>
   <p align="center">
-    <a href="https://www.linkedin.com/in/vishal-singh-2046841b7/https://www.linkedin.com/in/vishal-singh-2046841b7/">
+    <a href="https://www.linkedin.com/in/vishal-singh-2046841b7/">
       <img src="https://img.shields.io/badge/linkedin-0A66C2?&style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://www.instagram.com/vishalsinghhh__/?igshid=100tz7bdb7znb">
