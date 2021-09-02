@@ -83,6 +83,9 @@ const user = {
   <a href="https://redux.js.org/">
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
   </a>
+  <a href="https://sass-lang.com/">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
+  </a>
   <br>
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
