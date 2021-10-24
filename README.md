@@ -124,8 +124,8 @@ const user = {
     <a href="https://www.instagram.com/vishalsinghhh__/?igshid=100tz7bdb7znb">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="https://www.snapchat.com/add/vsingh0710">
-      <img src="https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white">
+    <a href="https://www.reddit.com/user/vishalsiinghhh">
+      <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white">
     </a>
     
   </p>
