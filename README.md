@@ -28,7 +28,7 @@ const user = {
   variables: "camelCase",
   
   myhobbies: [ "programming", "sleeping", "gaining knowledge", ],
-  skills&tools: [ "Html", "Css", "Js", "ReactJs", "Redux", "NodeJs", "C++", "Python", "C", ],
+  skills_tools: [ "Html", "Css", "Js", "ReactJs", "Redux", "NodeJs", "C++", "Python", "C", ],
   myeditors: [ "Sublime Text", "VS Code", ],
   
   thank_you: "John Smilga",
