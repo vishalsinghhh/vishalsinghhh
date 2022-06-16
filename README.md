@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://www.themasterpicks.com/wp-content/uploads/2020/04/22b22287602523.5dbd29081561d.gif" width="750px">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif" width="750px">
 </p>
 
 <!-- <p align="center">
