@@ -90,12 +90,6 @@ const user = {
   <a href="https://www.figma.com/">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </a>
-  <a href="https://www.adobe.com/in/products/photoshop.html">
-    <img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&labelColor=0a446b&logoWidth=15">
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html">
-    <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">
-  </a>
   <br>
   <a href="https://www.sublimetext.com/">
     <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
